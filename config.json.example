@@ -1,0 +1,9 @@
+{
+  "botInfo": {
+    "botToken": "",
+    "serverId": 1234567890123456800,
+    "channelId": 9876543210987655000,
+    "roleToGiveId": 4567890123456789000,
+    "roleToRemoveId": 9876543210987653000
+  }
+}
